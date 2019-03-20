@@ -18,4 +18,4 @@
 ## 卸载组件
 	* php composer.phar remove aliyuncs/oss-sdk-php  卸载组件的时候会把引入的其它组件一并卸载
 
-! (https://github.com/locoiy/doc/blob/master/imges/25f0a2bedb70de7f29f8dafe18955c33.png?raw=true)
+![](https://github.com/locoiy/doc/blob/master/imges/25f0a2bedb70de7f29f8dafe18955c33.png?raw=true)
