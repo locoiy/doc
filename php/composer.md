@@ -1,1 +1,1 @@
-###[Composer](http://www.phpcomposer.com/)
+### [Composer](http://www.phpcomposer.com/)
