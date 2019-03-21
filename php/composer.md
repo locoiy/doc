@@ -1,15 +1,14 @@
 # [Composer](http://www.phpcomposer.com/)
-	Thinkphp5自带了composer.phar组件， 如果没有安装，则需要进行安装
+   
+   Thinkphp5自带了composer.phar组件， 如果没有安装，则需要进行安装
 
 ## 安装
-```
-  一下命令全部在项目目录下运行
-  windows先要添加php路径到系统的环境变量中
-```
->	- php composer.phar install
->	- php composer.phar selfupdate
->	- php composer.phar config repo.packagist composer http://packagist.phpcomposer.com
-	  修改源地址，使用国内源地址，提升组件安装速度
+
+  以下命令全部在项目目录下运行，windows先要添加php路径到系统的环境变量中
+
+- php composer.phar install
+- php composer.phar selfupdate
+- php composer.phar config repo.packagist composer http://packagist.phpcomposer.com 使用国内源地址，提升组件安装速度
 
 ## 添加组件
 >	* php composer.phar require aliyuncs/oss-sdk-php 其中aliyuncs/oss-sdk-php为组件名称，组件名称可以从https://packagist.org/ 搜到
