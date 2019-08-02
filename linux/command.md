@@ -10,3 +10,7 @@
   grep -v grep 过滤含有grep的行
   awk '{print $2}' 筛出第2域
 ```
+* du -sh
+```
+  查看文件大小
+```
